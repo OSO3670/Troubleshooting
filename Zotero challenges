@@ -1,0 +1,8 @@
+For Challenges with Zotero| Not connecting to word document!
+
+The way out is to start with search %Appdata% this way on start icon of the computer.
+After this copy the document that you have just downloaded front the zotoro website https://www.zotero.org/support/word_processor_plugin_manual_installation
+copy the dot.m document and push them to this path C:\Users\::username::\AppData\Roaming\Microsoft\Word\STARTUP
+Delete the one there and put in another one.
+
+/* I must not run into this kind of problem again */
